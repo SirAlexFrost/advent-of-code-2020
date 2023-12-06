@@ -6,7 +6,8 @@
   "scripts": {
     "one": "ts-node-dev --respawn ./days/one",
     "two": "ts-node-dev --respawn ./days/two",
-    "three": "ts-node-dev --respawn ./days/three"
+    "three": "ts-node-dev --respawn ./days/three",
+    "four": "ts-node-dev --respawn ./days/four"
   },
   "keywords": [],
   "author": "",
