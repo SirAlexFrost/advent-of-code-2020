@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "one": "ts-node-dev --respawn ./days/one",
-    "two": "ts-node-dev --respawn ./days/two"
+    "two": "ts-node-dev --respawn ./days/two",
+    "three": "ts-node-dev --respawn ./days/three"
   },
   "keywords": [],
   "author": "",
