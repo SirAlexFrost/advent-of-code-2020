@@ -4,7 +4,8 @@
   "description": "Welcome to my repository for my solutions for the Advent of Code 2020 challenges!\r These solutions are not supposed to be the most optimal, they're just how I got to the answer.\r Enjoy looking around, and remember, don't cheat! Do it yourself first!",
   "main": "index.js",
   "scripts": {
-    "one": "ts-node-dev --respawn ./days/one"
+    "one": "ts-node-dev --respawn ./days/one",
+    "two": "ts-node-dev --respawn ./days/two"
   },
   "keywords": [],
   "author": "",
