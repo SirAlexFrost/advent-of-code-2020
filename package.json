@@ -8,7 +8,8 @@
     "two": "ts-node-dev --respawn ./days/two",
     "three": "ts-node-dev --respawn ./days/three",
     "four": "ts-node-dev --respawn ./days/four",
-    "five": "ts-node-dev --respawn ./days/five"
+    "five": "ts-node-dev --respawn ./days/five",
+    "six": "ts-node-dev --respawn ./days/six"
   },
   "keywords": [],
   "author": "",
