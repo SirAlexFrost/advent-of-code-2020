@@ -7,7 +7,8 @@
     "one": "ts-node-dev --respawn ./days/one",
     "two": "ts-node-dev --respawn ./days/two",
     "three": "ts-node-dev --respawn ./days/three",
-    "four": "ts-node-dev --respawn ./days/four"
+    "four": "ts-node-dev --respawn ./days/four",
+    "five": "ts-node-dev --respawn ./days/five"
   },
   "keywords": [],
   "author": "",
