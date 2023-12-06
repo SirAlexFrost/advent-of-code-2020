@@ -23,13 +23,10 @@ const part2 = numbers.reduce((sum, curr) => {
     const other = 2020 - curr;
     const possible = numbers.filter(num => (num < other && num + curr < 2020));
 
-    let answer: number[] = [];
-
     possible.forEach(number => {
         const otherPossible = possible.filter(num => (num + number + curr) === 2020);
         if (otherPossible.length > 0) {
-            answer = [otherPossible[0], number, curr];
-            sum = answer;
+            sum = [otherPossible[0], number, curr];
             return;
         }
     });
