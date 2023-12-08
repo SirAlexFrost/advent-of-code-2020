@@ -4,12 +4,12 @@
   "description": "Welcome to my repository for my solutions for the Advent of Code 2020 challenges!\r These solutions are not supposed to be the most optimal, they're just how I got to the answer.\r Enjoy looking around, and remember, don't cheat! Do it yourself first!",
   "main": "index.js",
   "scripts": {
-    "one": "ts-node-dev --respawn ./days/one",
-    "two": "ts-node-dev --respawn ./days/two",
-    "three": "ts-node-dev --respawn ./days/three",
-    "four": "ts-node-dev --respawn ./days/four",
-    "five": "ts-node-dev --respawn ./days/five",
-    "six": "ts-node-dev --respawn ./days/six"
+    "1": "ts-node-dev --respawn ./days/1",
+    "2": "ts-node-dev --respawn ./days/2",
+    "3": "ts-node-dev --respawn ./days/3",
+    "4": "ts-node-dev --respawn ./days/4",
+    "5": "ts-node-dev --respawn ./days/5",
+    "6": "ts-node-dev --respawn ./days/6"
   },
   "keywords": [],
   "author": "",
